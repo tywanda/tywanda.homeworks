@@ -1,8 +1,35 @@
-h1 {color:pink; font-size: 20px;}
-.red {
-    background-color:green;
-.pink 
-    background-color: red;
 
-        
+#container{
+    width:600px;
+    height:400px;
+    margin:20px;
+    border:10px solid;
+    position: relative;
+    
+
 }
+#red{ 
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    
+}   
+#orange{ 
+    width: 300px;
+    height: 300px;
+    background-color: rgb(43, 226, 141);
+    position: absolute;
+    top: 15px;
+    left: 250px;
+}
+
+#red{ 
+    width: 200px;
+    height: 200px;
+    background-color: rgb(226, 43, 43);
+    position: absolute;
+    top: 20px;
+    left: 60px;
